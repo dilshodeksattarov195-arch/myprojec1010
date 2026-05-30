@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyencrypt",
+        "uuid": 7291190,
+        "checksum": "5ddhxj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
